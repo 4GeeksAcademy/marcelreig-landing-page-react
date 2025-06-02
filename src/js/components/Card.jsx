@@ -2,7 +2,7 @@ import React from "react";
 
 function Card() {
   return (
-    <div className="card" style={{ width: "18rem" }}>
+    <div className="card">
       <img
         src="https://picsum.photos/400/200"
         className="card-img-top"
